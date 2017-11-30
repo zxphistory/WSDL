@@ -12,9 +12,20 @@ installation
     https://drive.google.com/file/d/1nJ0WOSNe3rI63MnRB3-_wtinLHESmayT/view?usp=sharing
     https://drive.google.com/file/d/14hRCsiAzt3eTyOTw3madR_L5rlMC4YqK/view?usp=sharing
 
-Demo
+Train models
 
 Run scripts/Main_Script.m 
+
+Demo
+
+Run scripts/Demo.m
+
+For demo evaluation, pretrained features based on caffenent and vgg-vd is available 
+
+caffenet   https://drive.google.com/file/d/16WLv1zPTNSE9iOdmHD5AjrSmCJDtOfSc/view?usp=sharing
+vgg-vd     https://drive.google.com/file/d/16AqNvfbTJ0lEzHOqoqepyydKakXew8IM/view?usp=sharing 
+imdb_eval  https://drive.google.com/file/d/1SCnAIbsAKfKE4o22cCkoEXN_qvzFt7gC/view?usp=sharing
+
 
 License
 
