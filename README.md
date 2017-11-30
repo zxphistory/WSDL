@@ -5,10 +5,15 @@ This ia an implementation of paper
 an arXiv version is available at:
 
 @article{zhang2017ensemble,
+
   title={Ensemble of Part Detectors for Simultaneous Classification and Localization},
+
   author={Zhang, Xiaopeng and Xiong, Hongkai and Lin, Weiyao and Tian, Qi},
+  
   journal={arXiv preprint arXiv:1705.10034},
+  
   year={2017}
+
 }
 
 installation
