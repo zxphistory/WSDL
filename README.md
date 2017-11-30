@@ -20,7 +20,7 @@ Demo
 
 Run scripts/Demo.m
 
-For demo evaluation, pretrained features based on caffenent and vgg-vd is available 
+For demo evaluation, pretrained features based on caffenet and vgg-vd is available 
 
 caffenet   https://drive.google.com/file/d/16WLv1zPTNSE9iOdmHD5AjrSmCJDtOfSc/view?usp=sharing
 
