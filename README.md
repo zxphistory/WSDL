@@ -1,6 +1,15 @@
 # WSDL
 This ia an implementation of paper 
-`Weak to Strong Detector Learning for Simultaneous Classification and Localization'
+`Weak to Strong Detector Learning for Simultaneous Classification and Localization', which is under review.
+
+an arXiv version is available at:
+
+@article{zhang2017ensemble,
+  title={Ensemble of Part Detectors for Simultaneous Classification and Localization},
+  author={Zhang, Xiaopeng and Xiong, Hongkai and Lin, Weiyao and Tian, Qi},
+  journal={arXiv preprint arXiv:1705.10034},
+  year={2017}
+}
 
 installation
 1. Compile matconvnet toolbox using cnn_wsddn_compilenn: (see the options in http://www.vlfeat.org/matconvnet/install/
