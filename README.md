@@ -12,7 +12,7 @@ installation
     https://drive.google.com/file/d/1nJ0WOSNe3rI63MnRB3-_wtinLHESmayT/view?usp=sharing
     https://drive.google.com/file/d/14hRCsiAzt3eTyOTw3madR_L5rlMC4YqK/view?usp=sharing
 
-Train models
+Train and test models
 
 Run scripts/Main_Script.m 
 
