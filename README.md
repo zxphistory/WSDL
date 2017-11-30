@@ -23,7 +23,9 @@ Run scripts/Demo.m
 For demo evaluation, pretrained features based on caffenent and vgg-vd is available 
 
 caffenet   https://drive.google.com/file/d/16WLv1zPTNSE9iOdmHD5AjrSmCJDtOfSc/view?usp=sharing
+
 vgg-vd     https://drive.google.com/file/d/16AqNvfbTJ0lEzHOqoqepyydKakXew8IM/view?usp=sharing 
+
 imdb_eval  https://drive.google.com/file/d/1SCnAIbsAKfKE4o22cCkoEXN_qvzFt7gC/view?usp=sharing
 
 
